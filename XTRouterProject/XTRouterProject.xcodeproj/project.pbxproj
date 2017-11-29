@@ -12,6 +12,8 @@
 		D04EBAA71FCEA751002A0CB9 /* datasource.plist in Resources */ = {isa = PBXBuildFile; fileRef = D04EBAA61FCEA751002A0CB9 /* datasource.plist */; };
 		D04EBAAA1FCEA955002A0CB9 /* XTWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D04EBAA91FCEA955002A0CB9 /* XTWebViewController.m */; };
 		D04EBAAD1FCEADE7002A0CB9 /* UIColor+Hex.m in Sources */ = {isa = PBXBuildFile; fileRef = D04EBAAC1FCEADE7002A0CB9 /* UIColor+Hex.m */; };
+		D04EBAB01FCEBB6A002A0CB9 /* IMG_0233.PNG in Resources */ = {isa = PBXBuildFile; fileRef = D04EBAAF1FCEBB6A002A0CB9 /* IMG_0233.PNG */; };
+		D04EBAB21FCEBBA7002A0CB9 /* IMG_0234.PNG in Resources */ = {isa = PBXBuildFile; fileRef = D04EBAB11FCEBBA7002A0CB9 /* IMG_0234.PNG */; };
 		D053225A1FCE9C3700BE5DF5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D05322591FCE9C3700BE5DF5 /* AppDelegate.m */; };
 		D05322601FCE9C3700BE5DF5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D053225E1FCE9C3700BE5DF5 /* Main.storyboard */; };
 		D05322621FCE9C3700BE5DF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D05322611FCE9C3700BE5DF5 /* Assets.xcassets */; };
@@ -52,6 +54,8 @@
 		D04EBAA91FCEA955002A0CB9 /* XTWebViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XTWebViewController.m; sourceTree = "<group>"; };
 		D04EBAAB1FCEADE7002A0CB9 /* UIColor+Hex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Hex.h"; sourceTree = "<group>"; };
 		D04EBAAC1FCEADE7002A0CB9 /* UIColor+Hex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Hex.m"; sourceTree = "<group>"; };
+		D04EBAAF1FCEBB6A002A0CB9 /* IMG_0233.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0233.PNG; sourceTree = "<group>"; };
+		D04EBAB11FCEBBA7002A0CB9 /* IMG_0234.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0234.PNG; sourceTree = "<group>"; };
 		D05322551FCE9C3700BE5DF5 /* XTRouterProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XTRouterProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D05322581FCE9C3700BE5DF5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D05322591FCE9C3700BE5DF5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -100,6 +104,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D04EBAAE1FCEBB51002A0CB9 /* ScreenPrint */ = {
+			isa = PBXGroup;
+			children = (
+				D04EBAAF1FCEBB6A002A0CB9 /* IMG_0233.PNG */,
+				D04EBAB11FCEBBA7002A0CB9 /* IMG_0234.PNG */,
+			);
+			path = ScreenPrint;
+			sourceTree = "<group>";
+		};
 		D053224C1FCE9C3700BE5DF5 = {
 			isa = PBXGroup;
 			children = (
@@ -123,6 +136,7 @@
 		D05322571FCE9C3700BE5DF5 /* XTRouterProject */ = {
 			isa = PBXGroup;
 			children = (
+				D04EBAAE1FCEBB51002A0CB9 /* ScreenPrint */,
 				D05322921FCE9E6E00BE5DF5 /* XTRouter */,
 				D05322581FCE9C3700BE5DF5 /* AppDelegate.h */,
 				D05322591FCE9C3700BE5DF5 /* AppDelegate.m */,
@@ -283,6 +297,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D05322651FCE9C3700BE5DF5 /* LaunchScreen.storyboard in Resources */,
+				D04EBAB21FCEBBA7002A0CB9 /* IMG_0234.PNG in Resources */,
+				D04EBAB01FCEBB6A002A0CB9 /* IMG_0233.PNG in Resources */,
 				D05322621FCE9C3700BE5DF5 /* Assets.xcassets in Resources */,
 				D053228E1FCE9C9D00BE5DF5 /* XTRouterSetting.plist in Resources */,
 				D04EBAA71FCEA751002A0CB9 /* datasource.plist in Resources */,
