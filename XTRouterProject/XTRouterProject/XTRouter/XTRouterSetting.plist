@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>home</key>
+	<dict>
+		<key>web</key>
+		<dict>
+			<key>defaultValueDict</key>
+			<dict>
+				<key>contentURLString</key>
+				<string>https://www.baidu.com</string>
+			</dict>
+			<key>paramsMapDict</key>
+			<dict>
+				<key>url</key>
+				<string>contentURLString</string>
+				<key>link</key>
+				<string>contentURLString</string>
+			</dict>
+			<key>pagename</key>
+			<string>XTWebViewController</string>
+		</dict>
+		<key>huodong</key>
+		<dict>
+			<key>pagename</key>
+			<string>XTHomeActivityController</string>
+			<key>paramsMapDict</key>
+			<dict>
+				<key>title</key>
+				<string>pageTitle</string>
+				<key>color</key>
+				<string>backColor</string>
+			</dict>
+			<key>defaultValueDict</key>
+			<dict>
+				<key>pageTitle</key>
+				<string>默认标题</string>
+				<key>backColor</key>
+				<string>00BFFF</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
