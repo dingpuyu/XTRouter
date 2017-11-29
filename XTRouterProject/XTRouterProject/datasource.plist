@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>默认值</key>
+	<string>routerapp://home/huodong</string>
+	<key>红色控制器</key>
+	<string>routerapp://home/huodong?color=CD5C5C&amp;title=我是红色控制器</string>
+	<key>我是标题一</key>
+	<string>routerapp://home/huodong?color=F0FFF0&amp;title=我是标题一</string>
+	<key>网页跳转</key>
+	<string>routerapp://home/web?link=https%3A%2F%2Fwww.baidu.com</string>
+</dict>
+</plist>
