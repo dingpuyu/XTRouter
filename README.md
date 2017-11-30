@@ -3,9 +3,11 @@ A route that corresponds to a controller based on a schema hop
 
 # XTRouter
 一个iOS项目使用的路由跳转框架
+
+
 ##Demo
 
-<img src="https://github.com/dingpuyu/XTRouter/blob/master/XTRouterProject/XTRouterProject/ScreenPrint/IMG_0233.PNG?raw=true" width = "375" height = "667" alt="Demo图" align=center />
+<center><img src="https://github.com/dingpuyu/XTRouter/blob/master/XTRouterProject/XTRouterProject/ScreenPrint/IMG_0233.PNG?raw=true" width = "375" height = "667" alt="Demo图" /></center>
 ###通过schema从配置文件获取控制器
 ```
 1.控制颜色
@@ -28,4 +30,4 @@ UIViewController* vc = [[XTRouter shareInstance] controllerWithSchema:@"routerap
 ```
 跳转效果
 
-<img src="https://github.com/dingpuyu/XTRouter/blob/master/XTRouterProject/XTRouterProject/ScreenPrint/IMG_0234.PNG?raw=true" width = "375" height = "667" alt="红色控制器" align=center />
+<center><img src="https://github.com/dingpuyu/XTRouter/blob/master/XTRouterProject/XTRouterProject/ScreenPrint/IMG_0234.PNG?raw=true" width = "375" height = "667" alt="红色控制器" align=center /></center>
