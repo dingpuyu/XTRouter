@@ -7,6 +7,7 @@ A route that corresponds to a controller based on a schema hop
 ## Demo
 
 <center><img src="https://github.com/dingpuyu/XTRouter/blob/master/XTRouterProject/XTRouterProject/ScreenPrint/IMG_0233.PNG?raw=true" width = "375" height = "667" alt="Demo图" /></center>
+
 ### 通过schema从配置文件获取控制器
 
 ``` 
