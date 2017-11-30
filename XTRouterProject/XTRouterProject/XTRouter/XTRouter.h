@@ -12,6 +12,8 @@
 
 + (instancetype)shareInstance;
 
+
+
 /*
     根据schema获取控制器，可能为空
 **/

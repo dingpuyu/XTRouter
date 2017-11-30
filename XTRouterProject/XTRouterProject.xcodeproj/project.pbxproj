@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D01D111F1FCFA1EF001BFA7A /* 20171130-101732.png in Resources */ = {isa = PBXBuildFile; fileRef = D01D111E1FCFA1EF001BFA7A /* 20171130-101732.png */; };
 		D04EBAA21FCE9FD2002A0CB9 /* XTHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D04EBAA11FCE9FD2002A0CB9 /* XTHomeViewController.m */; };
 		D04EBAA51FCEA22B002A0CB9 /* XTActionTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D04EBAA41FCEA22B002A0CB9 /* XTActionTableViewCell.m */; };
 		D04EBAA71FCEA751002A0CB9 /* datasource.plist in Resources */ = {isa = PBXBuildFile; fileRef = D04EBAA61FCEA751002A0CB9 /* datasource.plist */; };
@@ -45,6 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D01D111E1FCFA1EF001BFA7A /* 20171130-101732.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "20171130-101732.png"; sourceTree = "<group>"; };
 		D04EBAA01FCE9FD2002A0CB9 /* XTHomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XTHomeViewController.h; sourceTree = "<group>"; };
 		D04EBAA11FCE9FD2002A0CB9 /* XTHomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XTHomeViewController.m; sourceTree = "<group>"; };
 		D04EBAA31FCEA22B002A0CB9 /* XTActionTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XTActionTableViewCell.h; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 			children = (
 				D04EBAAF1FCEBB6A002A0CB9 /* IMG_0233.PNG */,
 				D04EBAB11FCEBBA7002A0CB9 /* IMG_0234.PNG */,
+				D01D111E1FCFA1EF001BFA7A /* 20171130-101732.png */,
 			);
 			path = ScreenPrint;
 			sourceTree = "<group>";
@@ -296,6 +299,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D01D111F1FCFA1EF001BFA7A /* 20171130-101732.png in Resources */,
 				D05322651FCE9C3700BE5DF5 /* LaunchScreen.storyboard in Resources */,
 				D04EBAB21FCEBBA7002A0CB9 /* IMG_0234.PNG in Resources */,
 				D04EBAB01FCEBB6A002A0CB9 /* IMG_0233.PNG in Resources */,
